@@ -1,7 +1,3 @@
-Here's an updated version of the `README.md` that highlights collaboration opportunities and keeps the mathematical approach focus:
-
----
-
 # 🧠 PyTorch from Scratch: A Beginner-to-Advanced Guide with a Mathematical Approach 📈
 
 Welcome to **PyTorch from Scratch**! This tutorial series aims to teach you the fundamentals of PyTorch through a mix of math and code, making complex topics accessible for beginners. We're building this project to be a collaborative space where contributions from different perspectives enhance the content!
