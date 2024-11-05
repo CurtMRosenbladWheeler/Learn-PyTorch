@@ -1,0 +1,12 @@
+{
+  "languages": {
+    "Python": {
+      "language_server": {
+        "initialization_options": {
+          "venvPath": ".",
+          "venv": ".venv"
+        }
+      }
+    }
+  }
+}
