@@ -1,1 +1,95 @@
-.venv
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+# Usually these files are written by a python script from a template
+# before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Jupyter Notebook metadata and outputs
+*.ipynb
+*.nbconvert.ipynb
+*.html
+
+# Python virtual environment files
+pyvenv.cfg
+.Python
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# Environment variables
+.env
+.env.local
+env.yaml
+
+# Jupyter Notebook metadata and outputs
+outputs/
+*.csv
+*.h5
+*.ckpt
+
+# Ignore data files
+data/
+*.log
+
+# PyTorch model files
+*.pt
+*.pth
+*.onnx
+
+# Build artifacts
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+*.log
