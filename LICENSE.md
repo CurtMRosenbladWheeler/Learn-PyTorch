@@ -60,7 +60,7 @@ For the purposes of this Agreement:
    The Licensor reserves the right to modify the terms of this Agreement at any time. The modified terms will be effective immediately upon publication of an updated version of this Agreement in the repository. The Licensee is responsible for reviewing the Agreement regularly, and their continued use of the Work following any modifications constitutes acceptance of the updated terms.
 
 ### 9. **Governing Law and Jurisdiction**
-   This Agreement shall be governed by, and construed in accordance with, the laws of Sarasota, Florida, USA, without regard to its conflict of law principles. Any legal action or proceeding related to this Agreement shall be brought exclusively in the appropriate courts located in Sarasota, Florida, USA.
+   This Agreement shall be governed by, and construed in accordance with, the laws of Sarasota, Florida, United States of America, without regard to its conflict of law principles. Any legal action or proceeding arising out of or relating to this Agreement shall be brought exclusively in the courts of the Second District of the Twelfth Judicial Circuit in and for Sarasota County, Florida.
 
 ### 10. **Miscellaneous**
    - **Entire Agreement**: This Agreement constitutes the entire agreement between the parties with respect to the Work and supersedes all prior or contemporaneous agreements or understandings, whether written or oral, relating to the subject matter hereof.
