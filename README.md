@@ -1,6 +1,6 @@
-# 🧠 PyTorch from Scratch: A Beginner-to-Advanced Guide with a Mathematical Approach 📈
+# Learn PyTorch: A Mathematical Perspective
 
-Welcome to **PyTorch from Scratch**! This tutorial series aims to teach you the fundamentals of PyTorch through a mix of math and code, making complex topics accessible for beginners. We're building this project to be a collaborative space where contributions from different perspectives enhance the content!
+Welcome to **Learn PyTorch: A Mathematical Perspective**! This tutorial series aims to teach you the fundamentals of PyTorch through a mix of math and code, making complex topics accessible for beginners. We're building this project to be a collaborative space where contributions from different perspectives enhance the content!
 
 ---
 
