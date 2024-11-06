@@ -47,7 +47,7 @@ This Code of Conduct is adapted from the Contributor Covenant, version 2.1, avai
 
 ## Contact Information
 
-For any questions or to report a concern, please contact the project maintainers at [curt.m.k.wheeler@gmail.com](mailto:curt.m.k.wheeler@gmail.com).
+For any questions or to report a concern, please contact the project maintainers on Instagram at [@curt.m.k.wheeler](https://www.instagram.com/curt.m.wheeler/).
 
 ---
 
